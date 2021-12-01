@@ -1,4 +1,4 @@
-# EIGENVALUES-AND-EIGENVECTORS
+# EIGEN VALUES-AND-EIGEN VECTORS
 ## Aim:
 To write a python program to find the Eigenvalues and Eigen Vectors.
 ## Equipment’s required:
